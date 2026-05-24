@@ -1,0 +1,32 @@
+.notaskmsg {
+  background-color: #CFD8DC;
+  padding: 1px 20px;
+}
+
+body {
+  font-family: monospace;
+}
+
+.delete-btn {
+  font-size: 12px;
+  background-color: #192930;
+  color: #eceff1;
+  padding: 4px 8px;
+}
+
+#button {
+  background-color: #006e63f0;
+  color: white
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+input {
+  background-color: #b2dfdb;
+}
+
+body {
+  background-color: #eceff1;
+}
